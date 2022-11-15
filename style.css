@@ -9,3 +9,160 @@ height: 1253px;
 
 background: #E5E5E5;
 border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 2px;
+
+/* Frame 1 */
+
+
+position: relative;
+width: 616px;
+height: 947px;
+left: 367px;
+top: 211px;
+
+background: #FFFFFF;
+
+/* Header */
+
+
+position: absolute;
+width: 520px;
+height: 299px;
+left: 29px;
+top: 38px;
+
+/* Advantages */
+
+
+position: absolute;
+width: 520px;
+height: 477px;
+left: calc(50% - 520px/2 - 19px);
+bottom: 133px;
+
+/* Footer */
+
+
+position: absolute;
+width: 484px;
+height: 90px;
+left: 45px;
+top: 802px;
+
+/* background image */
+
+
+position: absolute;
+width: 311px;
+height: 286px;
+left: 305px;
+top: 1px;
+
+opacity: 0.07;
+
+/* divider */
+
+
+position: absolute;
+height: 0.73px;
+left: 29px;
+right: 67px;
+top: 337px;
+
+/* Component */
+
+
+position: absolute;
+height: 65.74px;
+left: 60.2px;
+right: 98.2px;
+top: 380.83px;
+
+/* Component */
+
+
+position: absolute;
+height: 65.74px;
+left: 60.2px;
+right: 98.2px;
+top: 464.83px;
+
+/* Component */
+
+
+position: absolute;
+height: 65.74px;
+left: 60.2px;
+right: 98.2px;
+top: 548.84px;
+
+/* Component */
+
+
+position: absolute;
+height: 65.74px;
+left: 60.2px;
+right: 98.2px;
+top: 632.84px;
+
+/* explore more button */
+
+
+position: absolute;
+width: 457.6px;
+left: 60.2px;
+top: 732.19px;
+bottom: 178.29px;
+
+/* divider */
+
+
+position: absolute;
+height: 0.73px;
+left: 29px;
+right: 67px;
+top: 813.27px;
+
+position: absolute;
+width: 484px;
+height: 40.75px;
+left: calc(50% - 484px/2 - 21px);
+bottom: 104.25px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 170%;
+/* or 26px */
+
+text-align: center;
+
+color: #FF0000;
+
+/* social sharing */
+
+
+position: absolute;
+width: 151.82px;
+height: 19.53px;
+left: calc(50% - 151.82px/2 - 22.71px);
+bottom: 55px;
+
+/* Vector */
+
+
+position: absolute;
+width: 311px;
+height: 286px;
+right: 0px;
+top: 1px;
+
+background: #0084FF;
+border: 0.2px solid #003260;
+
+position: absolute;
+left: 49.51%;
+right: 2.44%;
+top: 2.32%;
+bottom: 69.69%;
